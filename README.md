@@ -1,2 +1,1 @@
 # school-training-java
-good
